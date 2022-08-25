@@ -71,11 +71,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '(☞ﾟ∀ﾟ)☞'
+global.packname = '𝓟𝓪𝓲𝓶𝓸𝓷'
 global.author = '★𝚃he 𝓟𝓪𝓲𝓶𝓸𝓷 _𝓑𝓸𝓽- 𝙱𝚘𝚝★'
 
 global.wm = '★𝚃𝚑𝚎 𝔓𝔞𝔦𝔪𝔬𝔫 _𝔅𝔬𝔱 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝓟𝓪𝓲𝓶𝓸𝓷 _𝓑𝓸𝓽 - 𝙱𝚘𝚝★'
+global.igfg = '★server 4 bot- 𝙱𝚘𝚝★'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
