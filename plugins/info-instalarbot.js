@@ -1,17 +1,13 @@
 import fs from 'fs'
 let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let text = `
-*—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙱𝙾T 𝙷𝙾𝚂𝚃*
-> Tutorial: https://y
-> Pagina Oficial:
-> Dashboard: https:/
-> Panel: https:/
-> Soporte: h
+*—◉ PAIMON BOT*
+
 
 ------------------------------------
 
 *—◉ Información*
-> 
+> SERVIDOR NODO: 2 NODO EN LÍNEA CORRECTAMENTE 
 
 ------------------------------------
 
